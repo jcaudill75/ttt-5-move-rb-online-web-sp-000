@@ -11,3 +11,4 @@ def input_to_index(user_input)
   new_user_input = user_input.to_i
 new_user_input += -1
 end
+def move(array, index, value)
